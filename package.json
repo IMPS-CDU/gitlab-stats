@@ -1,0 +1,19 @@
+{
+  "name": "gitlab-stats",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "gitlab",
+    "stats"
+  ],
+  "author": "Matt Elvey <matthew.elvey@cdu.edu.au>",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^2.19.0",
+    "node-fetch": "^2.3.0"
+  }
+}
